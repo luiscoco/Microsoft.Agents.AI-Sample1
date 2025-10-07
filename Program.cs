@@ -1,4 +1,3 @@
-﻿using System;
 using Azure.AI.OpenAI;
 using Azure.Identity;
 using Microsoft.Agents.AI;
